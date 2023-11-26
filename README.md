@@ -1,4 +1,7 @@
 # Adam's Wishlist
+
+## [Christmas Wish List - Amazon](https://www.amazon.com/hz/wishlist/ls/1Z111KEMHITZQ?ref_=wl_share)
+
 ## [Bambu Lab X1-Carbon](https://us.store.bambulab.com/products/x1-carbon-combo-starter-bundle)
 <img src="https://github.com/AALMA/wishlist/assets/5289607/4f6d3917-d275-4e1d-b698-e40ef9fc7e15" width="300px"/>
 
@@ -16,7 +19,3 @@
 
 ## [Red Wings Black/White Trucker Snapback Hat](https://shop.nhl.com/detroit-red-wings/mens-detroit-red-wings-fanatics-branded-black/white-authentic-pro-rinkside-adjustable-trucker-snapback-hat/t-36261794+p-477064477292+z-8-3001151966?_ref=p-DLP:m-GRID:i-r13c1:po-40)
 <img src="https://github.com/AALMA/wishlist/assets/5289607/996adef3-7d27-4672-b399-9a9cab1a39dd" width="300px"/>
-
-## [Amazon Movies Wishlist](https://www.amazon.com/hz/wishlist/ls/ODB6P4H85NU1?ref_=wl_share)
-
-## [Amazon Books Wishlist](https://www.amazon.com/hz/wishlist/ls/32R7FZ9D2SJU9?ref_=wl_share)
