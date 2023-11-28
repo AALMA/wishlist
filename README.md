@@ -2,8 +2,8 @@
 
 ## [Christmas Wish List - Amazon](https://www.amazon.com/hz/wishlist/ls/1Z111KEMHITZQ?ref_=wl_share)
 
-## [Bambu Lab X1-Carbon](https://us.store.bambulab.com/products/x1-carbon-combo-starter-bundle)
-<img src="https://github.com/AALMA/wishlist/assets/5289607/4f6d3917-d275-4e1d-b698-e40ef9fc7e15" width="300px"/>
+## [Bambu Lab P1S 3D Printer](https://us.store.bambulab.com/products/p1s?variant=41502298800264)
+<img src="https://github.com/AALMA/wishlist/assets/5289607/9d24a808-bab2-483c-b125-cb204c79fc22" width="300px"/>
 
 ## [Rowdies T-Shirt 3x](https://thebayrepublic.com/collections/rowdies/products/rowdies-mens-green-1975-oval-sport-design-sweden-t-shirt?variant=43503867265187)
 <img src="https://github.com/AALMA/wishlist/assets/5289607/7f2f6502-2977-45e0-9dd2-94edd89382f2" width="300px"/>
